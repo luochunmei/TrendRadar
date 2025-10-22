@@ -6,6 +6,12 @@ openai
 NVIDIA
 黄仁勋
 
+字节跳动
+阿里巴巴
+美团
+腾讯
+
+
 AMD
 谷歌
 google
@@ -18,7 +24,7 @@ Anthropic
 
 ai
 !gai
-人工智能
+!air
 
 自动驾驶
 
@@ -35,6 +41,7 @@ sora
 
 
 agent
+
 python
 generative ai
 Llm
